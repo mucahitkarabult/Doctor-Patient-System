@@ -39,6 +39,6 @@
 
 
 # How do you use
-> After import the project to  your  IDE , reoload the postgresql-42.2.18.jar ,rs2xml.jar to the project because the jars file's paths dont uptade themself
-> Change the password with your sql-password in SqlConnect.java
+- After import the project to  your  IDE , reoload the postgresql-42.2.18.jar ,rs2xml.jar to the project because the jars file's paths dont uptade themself
+- Change the password with your sql-password in SqlConnect.java
 
