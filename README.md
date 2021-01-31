@@ -41,4 +41,10 @@
 # How do you use
 - After import the project to  your  IDE , reoload the postgresql-42.2.18.jar ,rs2xml.jar to the project because the jars file's paths dont uptade themself
 - Change the password with your sql-password in SqlConnect.java
+- For patient admission ,username is htc_no  and password is had in hasta table
+<img src="img/sql_patient.png" width =350/> 
 
+- For doctor admission ,username is tc_no and password is ad in table of saglik_calisani 
+<img src="img/sql_doctor.png" width =350/> 
+
+- For doctor admission ,username is tc in table of health professional and password is name of doctors
