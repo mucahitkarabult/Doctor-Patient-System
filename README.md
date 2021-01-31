@@ -3,11 +3,11 @@
  
  
  
- *login-page
+<li>login-page </li>
  
- <img src="images/login.png" width =300/>
+ <img src="img/login.png" width =300/>
  
- *Patitent-side
+ <li>Patitent-side</li>
  Patient can view and uptade their information
  
  
