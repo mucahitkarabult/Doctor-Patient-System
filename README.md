@@ -7,6 +7,6 @@
  <img src="img/login.png" width =350/>
  
  <li>Patitent-side</li>
- <p>     Patient can view and uptade their information </p>
+ > Patient can view and uptade their information 
  
  
