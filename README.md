@@ -50,5 +50,5 @@
 # Project Contributors
 - Mucahit Karabulut  
 - [Umut Kaya](https://github.com/Coldbird00)  
-- [Hatice Demir]  
+- Hatice Demir
 - [Fatmanur Tak ](https://github.com/fatmanurtk) 
