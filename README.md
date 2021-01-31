@@ -34,7 +34,7 @@
 
 - Saglık calisani button
 > Manager can add ,delete doctor also change their attribute (salary,location etc)
-<img src="img/insert-doktor.png" width =500/> 
+<img src="img/insert-doktor.png" width =700/> 
 
 
 
