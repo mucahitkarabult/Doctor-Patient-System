@@ -47,4 +47,4 @@
 - For doctor admission ,username is tc_no and password is ad in table of saglik_calisani 
 <img src="img/sql_doctor.png" width =600/> 
 
-- For doctor admission ,username is tc in table of health professional and password is name of doctors
+
