@@ -5,7 +5,7 @@
 - Login-page 
  <img src="img/login.png" width =350/>
  
-- Patitent-side
+- Patitent-side  
  > Patient can view and uptade their information 
  
  
