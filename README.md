@@ -47,4 +47,8 @@
 - For doctor admission ,username is tc_no and password is ad in table of saglik_calisani 
 <img src="img/sql_doctor.png" width =600/> 
 
-
+# Project Contributors
+Mucahit Karabulut
+[Umut Kaya](https://github.com/Coldbird00)
+[Hatice Demir]
+[Fatmanur](https://github.com/fatmanurtk) 
