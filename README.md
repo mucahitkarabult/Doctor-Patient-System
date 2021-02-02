@@ -44,7 +44,7 @@
 - For patient admission ,username is htc_no  and password is had in hasta table
 <img src="img/sql_patient.png" width =600/> 
 
-- For doctor admission ,username is tc_no and password is ad in table of saglik_calisani 
+-  For doctor admission ,username is tc_no and password is ad in table of saglik_calisani 
 <img src="img/sql_doctor.png" width =600/> 
 
 # Project Contributors
