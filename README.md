@@ -15,7 +15,7 @@
 
 - Aldığım Hizmetler
 > It display services the patient receive
-# Doktor-side
+# Doctor-side
 - InterFace
 <img src="img/emp_login.png" width =350/> 
 
